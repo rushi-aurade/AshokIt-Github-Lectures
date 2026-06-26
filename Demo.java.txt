@@ -1,19 +1,5 @@
 class Demo{
-
-   public static void main(String[]args){
-    
-int age = 26;
-String name = "Ganesh Shivraj Aurade";
-  }
-
-<<<<<<< Updated upstream
-String name = "Rushikesh";
-System.out.println(name);
-}
-
-boolean name = true;
-
-  public void greetMessage(){
+ public void greetMessage(){
   System.out.println("Welcome Rushikesh Aurade!");  
 }
 =======
@@ -24,3 +10,12 @@ boolean name = true;
    
 >>>>>>> Stashed changes
 }
+
+public static void main(String[]args){
+    
+int age = 26;
+String name = "Ganesh Shivraj Aurade";
+  }
+}
+
+
