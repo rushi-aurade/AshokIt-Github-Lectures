@@ -8,4 +8,8 @@ System.out.println(name);
 }
 
 boolean name = true;
+
+  public void greetMessage(){
+  System.out.println("Welcome Rushikesh Aurade!");  
+}
 }
